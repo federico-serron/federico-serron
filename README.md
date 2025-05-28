@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django | Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [www.fserron.com](www.fserron.com)
+- 👨‍💻 All of my projects are available at (www.fserron.com)
 
 - 💬 Ask me about **Tech and Travel around the World**
 
