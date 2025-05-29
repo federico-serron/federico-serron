@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1ciWHJrPt0KtBq3PGsjgiIN5hrCDJc-DB/view?usp=drive_link" alt="banner" />
+  <img src="https://github.com/federico-serron/myPortfolio/blob/42910630078fdecbd530148ad81de0caf01c327d/assets/img/IMG_20220901_210559_2.JPG?raw=true" alt="Federico Serron Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Federico Serron</h1>
