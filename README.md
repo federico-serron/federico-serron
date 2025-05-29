@@ -54,7 +54,6 @@
 ### ☕ Let's Collaborate
 
 If you like my work or just want to chat about tech, startups or remote life, feel free to drop me a line.  
-Or... [buy me a coffee](https://www.buymeacoffee.com/fserron) if you're feeling generous 😊
 
 ---
 
