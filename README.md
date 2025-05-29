@@ -48,9 +48,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=federico-serron&theme=github-dark&hide_border=true" alt="federico-serron streak" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federico-serron&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
