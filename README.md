@@ -1,4 +1,7 @@
 <!-- GitHub Profile README -->
+<p align="center">
+  <img src="https://drive.google.com/file/d/1ciWHJrPt0KtBq3PGsjgiIN5hrCDJc-DB/view?usp=drive_link" alt="banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Federico Serron</h1>
 <h3 align="center">🚀 Full Stack Developer turning ideas into deployable realities</h3>
