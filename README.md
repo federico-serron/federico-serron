@@ -53,7 +53,7 @@
 
 ### ☕ Let's Collaborate
 
-If you like my work or just want to chat about tech, startups or remote life, feel free to drop me a line.  
+If you like my work or just want to chat about tech, startups or remote life, feel free to drop me a line 🏋️.  
 
 ---
 
