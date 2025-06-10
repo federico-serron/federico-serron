@@ -43,9 +43,6 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=federico-serron&show_icons=true&theme=github_dark&hide_border=true" alt="federico-serron stats" />
-</p>
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=federico-serron&theme=github-dark&hide_border=true" alt="federico-serron streak" />
 </p>
 
