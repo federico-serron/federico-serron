@@ -4,53 +4,69 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Federico Serron</h1>
-<h3 align="center">🚀 Full Stack Developer turning ideas into deployable realities</h3>
+<h3 align="center">💻 Full Stack Developer | ⚙️ Cybersecurity Student | 🚀 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=federico-serron&label=Profile%20views&color=0e75b6&style=flat" alt="federico-serron" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+ideas+into+solutions;Always+learning+something+new;Let's+build+the+future+together" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=federico-serron&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently building **AhorrApp** – a smart personal finance tracker  
-- 🌱 I’m learning **Django** and diving deep into **Cybersecurity**  
-- 💼 All my projects live at [www.fserron.com](https://www.fserron.com)  
-- 🗺️ Passionate about **Tech & Travel**  
-- 📫 Reach me at: **fede20041@gmail.com**  
+- 🔭 Currently building **AhorrApp** – a smart personal finance tracker with AI and Whatsapp integrations
+- 🧠 Learning **Django**, diving into **Cybersecurity**, and always improving my backend game  
+- 🧳 Passionate about **tech, remote life & travel**  
+- 💼 All my work lives at [fserron.com](https://www.fserron.com)  
+- 📬 Contact me at **fede20041@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,django,react,vite,js,html,css,bootstrap,postgresql,mysql,sqlite,php,java,git,linux,selenium,postman,jest,laravel,vscode,pycharm,notion" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌍 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/serron-federico" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="serron-federico" height="30" /></a>
-  <a href="https://stackoverflow.com/users/15943399" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow" height="30" /></a>
-  <a href="https://www.hackerrank.com/f_serron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/serron-federico" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://stackoverflow.com/users/15943399" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" height="30" />
+  </a>
+  <a href="https://www.hackerrank.com/f_serron" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" />
+  </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=federico-serron&theme=github-dark&hide_border=true" alt="federico-serron streak" />
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=federico-serron&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <br />
 </p>
 
 ---
 
 ### ☕ Let's Collaborate
 
-If you like my work or just want to chat about tech, startups or remote life, feel free to drop me a line 🏋️.  
+If you're building something cool or need a dev who can take your idea from **Figma to production**, let's talk!  
+I’m always open to collaborate, brainstorm or work on fun side projects.
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+</p>
