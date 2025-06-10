@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Full Stack Developer turning ideas into deployable realities</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fserron&label=Profile%20views&color=0e75b6&style=flat" alt="fserron" />
+  <img src="https://komarev.com/ghpvc/?username=federico-serron&label=Profile%20views&color=0e75b6&style=flat" alt="federico-serron" />
 </p>
 
 ---
