@@ -62,7 +62,7 @@
 
 ### ☕ Let's Collaborate
 
-If you're building something cool or need a dev who can take your idea from **Figma to production**, let's talk!  
+If you're building something cool or need a dev who can take your idea ** to production**, let's talk!  
 I’m always open to collaborate, brainstorm or work on fun side projects.
 
 ---
