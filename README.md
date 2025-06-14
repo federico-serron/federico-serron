@@ -66,7 +66,3 @@ If you're building something cool or need a dev who can take your idea ** to pro
 I’m always open to collaborate, brainstorm or work on fun side projects.
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
-</p>
