@@ -10,9 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+ideas+into+solutions;Always+learning+something+new;Let's+build+the+future+together" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=federico-serron&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
